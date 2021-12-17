@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (5-5 3D textured Objects_GomesDaCosta.vcxproj, OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(295,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(396,64): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(430,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(456,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(457,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(461,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(462,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(463,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Source.cpp(464,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> \\apporto.com\dfs\SNHU\USERS\1546195\Desktop\CS-330\7-1 Final Project\7-1 Final Project\Debug\7-1 Final Project.exe
